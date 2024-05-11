@@ -78,3 +78,6 @@ In the future, we might be able to do:
 .group {
   display: flow-root;
 }
+
+
+**Credits - https://css-tricks.com/snippets/css/clear-fix/**
